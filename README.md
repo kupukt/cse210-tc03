@@ -2,6 +2,9 @@
 Week 3 team activity
 
 
+Collette
+
+
 
 Brenin Peterson
     I am 24 years old, married almost 2 years and have a 10-month old son. 
@@ -15,5 +18,6 @@ Linda Spellman
 
 Kupu Tuifua
     My name is Kupu and I am from Hawaii. I was born and raised there and I am 19 years old. I like to go to the beach and I am studying computer science at BYUI.
+
 
 
