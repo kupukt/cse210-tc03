@@ -15,5 +15,9 @@ namespace Projects
         {
             Console.WriteLine("Hi my name is Kupu");
         }
+        static void breinIntro()
+        {
+            Console.WriteLine("This is Brenin Peterson!");
+        }
     }
 }
